@@ -1,0 +1,40 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/Herna/source/repos/GameWorldBuildingTool/out/build/x86-debug",
+	"dir-cur-src" : "C:/Users/Herna/source/repos/GameWorldBuildingTool",
+	"dir-top-bld" : "C:/Users/Herna/source/repos/GameWorldBuildingTool/out/build/x86-debug",
+	"dir-top-src" : "C:/Users/Herna/source/repos/GameWorldBuildingTool",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"_deps\\glfw-src\\include",
+		"C:\\Users\\Herna\\source\\repos\\GameWorldBuildingTool\\thirdparty\\glad\\include",
+		"_deps\\imgui-src",
+		"_deps\\imgui-src\\backends",
+		"_deps\\assimp-src\\code\\..\\include",
+		"_deps\\assimp-build\\code\\..\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Herna/source/repos/GameWorldBuildingTool/out/build/x86-debug/CMakeFiles/GameWorldBuildingTool.dir",
+	"sources" : 
+	{
+		"CMakeFiles/GameWorldBuildingTool.dir/src/GameWorldBuildingTool.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Herna/source/repos/GameWorldBuildingTool/src/GameWorldBuildingTool.cpp"
+		},
+		"CMakeFiles/GameWorldBuildingTool.dir/src/Window.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Herna/source/repos/GameWorldBuildingTool/src/Window.cpp"
+		}
+	}
+}

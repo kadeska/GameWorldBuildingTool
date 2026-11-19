@@ -1,0 +1,13 @@
+prefix=C:/Users/Herna/source/repos/GameWorldBuildingTool/out/install/x86-debug
+exec_prefix=C:/Users/Herna/source/repos/GameWorldBuildingTool/out/install/x86-debug
+libdir=
+sharedlibdir=
+includedir=
+
+Name: zlib
+Description: zlib compression library
+Version: 
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

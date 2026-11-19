@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Herna/source/repos/GameWorldBuildingTool/out/build/x64-debug/cmake_install.cmake",
+		"C:/Users/Herna/source/repos/GameWorldBuildingTool/out/build/x64-debug/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/Herna/source/repos/GameWorldBuildingTool/out/build/x64-debug/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/Herna/source/repos/GameWorldBuildingTool/out/build/x64-debug/_deps/assimp-build/cmake_install.cmake",
+		"C:/Users/Herna/source/repos/GameWorldBuildingTool/out/build/x64-debug/_deps/assimp-build/contrib/zlib/cmake_install.cmake",
+		"C:/Users/Herna/source/repos/GameWorldBuildingTool/out/build/x64-debug/_deps/assimp-build/code/cmake_install.cmake",
+		"C:/Users/Herna/source/repos/GameWorldBuildingTool/out/build/x64-debug/_deps/glm-build/cmake_install.cmake",
+		"C:/Users/Herna/source/repos/GameWorldBuildingTool/out/build/x64-debug/_deps/glm-build/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\GameWorldBuildingTool.dir\\src\\GameWorldBuildingTool.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Herna\\source\\repos\\GameWorldBuildingTool\\out\\build\\x86-debug\\vc140.pdb",
+                "CMakeFiles\\GameWorldBuildingTool.dir\\src\\GameWorldBuildingTool.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

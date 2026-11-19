@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\GameWorldBuildingTool.dir\src\GameWorldBuildingTool.cpp.obj: dyndep
+
+build CMakeFiles\GameWorldBuildingTool.dir\src\Window.cpp.obj: dyndep
+

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\imgui.dir\\_deps\\imgui-src\\imgui_widgets.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Herna\\source\\repos\\GameWorldBuildingTool\\out\\build\\x86-debug\\vc140.pdb",
+                "CMakeFiles\\imgui.dir\\_deps\\imgui-src\\imgui_widgets.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
